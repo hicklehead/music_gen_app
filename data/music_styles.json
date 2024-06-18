@@ -1,0 +1,14 @@
+{
+    "pop": {
+        "tempo_range": [100, 130],
+        "characteristics": "catchy, upbeat"
+    },
+    "rock": {
+        "tempo_range": [110, 140],
+        "characteristics": "strong beat, energetic"
+    },
+    "jazz": {
+        "tempo_range": [60, 120],
+        "characteristics": "improvisational, smooth"
+    }
+}

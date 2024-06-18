@@ -1,0 +1,6 @@
+{
+    "pop": "Let's dance to the beat, feel the rhythm in our feet. {tempo} BPM keeps us moving, with a style so soothing.",
+    "rock": "Turn up the sound, let the music play. {tempo} BPM, we're rocking all day.",
+    "jazz": "Smooth and mellow, {tempo} BPM flow. In the key of {key}, let's start the show.",
+    "default": "Music is the universal language, tempo of {tempo}, style of {style}."
+}
